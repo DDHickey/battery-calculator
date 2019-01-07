@@ -5,6 +5,8 @@ Plan of Action:
   * I intended to practice screen capture by programmatically taking a screenshot of my mac laptop in the desired region of battery percentage.
   * I used image processing skills to take the screen shot and make the text bigger and more clear by using terminal commands and ImageMagick.
   * Finally, I used tesseract to write the percentage to an external file and re-open to display the text.
+  
+  
    * PS. I wrote to an external text file only for practice and for potential other uses outside of the script.
    
    
