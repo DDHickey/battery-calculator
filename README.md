@@ -8,7 +8,7 @@ Plan of Action:
    * PS. I wrote to an external text file only for practice and for potential other uses outside of the script.
    
    
-   * Also Note *
+   \* Also Note *
  This is not the most efficient manner of getting your computer battery percentage as for most computers there are API or alternative libraries
  that specialize in getting bettery percentages. I wanted to practice python ocr and I felt this was the most efficient manner. 
  Also, I plan on using opencv in the future for python ocr however this was my very first demonstration with python ocr and by no means the best way.
