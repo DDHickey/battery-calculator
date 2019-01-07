@@ -1,5 +1,6 @@
 # battery-calculator
 A python script that demonstrates simple OCR from tesseract in order to retrieve the battery percentage on a mac.
+
 Plan of Action:
   * I intended to practice screen capture by programmatically taking a screenshot of my mac laptop in the desired region of battery percentage.
   * I used image processing skills to take the screen shot and make the text bigger and more clear by using terminal commands and ImageMagick.
